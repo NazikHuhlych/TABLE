@@ -1,0 +1,27 @@
+<!DOCTAPE html>
+<html>
+<head>
+<title>Контент</title>
+<meta content="charset=windows-1251">
+</head>
+<body backgroundcolor=aqua text=black>
+<table cellpadding="15" cellspacing="6">
+<TR>
+<TD>&nbsp;</TD>
+<TD valign="top">
+Осінь - у барвистому намисті<BR>
+Як циганка - з бубоном в руці.<BR>
+Поцілунок - чистий і вогнистий<BR>
+на моїй зоставила щоці.</TD>
+<TD valign="top">
+Осінь - у барвистому намисті<BR>
+Як циганка - з бубоном в руці.<BR>
+Поцілунок - чистий і вогнистий<BR>
+на моїй зоставила щоці.
+<p align=right><font size="2"><em>&quot;
+Євген Гуцало&quot;</em></font></p>
+</TD>
+</TR>
+</table> 
+</body>
+</html>
